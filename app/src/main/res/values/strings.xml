@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Module2_PC21</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_log_run">LogRunActivity</string>
+    <string name="title_activity_my_run">MyRunActivity</string>
+    <string name="title_activity_challenge">ChallengeActivity</string>
+    <string name="title_activity_leaderboard">LeaderboardActivity</string>
+</resources>
